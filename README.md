@@ -1,9 +1,9 @@
 
 
-# DSA2F: Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion (CVPR'2021, Oral)
+# DSA^2 F: Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion (CVPR'2021, Oral)
 
 This repo is the official implementation of 
-["RD3D: Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion"](https://arxiv.org/pdf/2103.11832.pdf)
+["DSA^2 F: Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion"](https://arxiv.org/pdf/2103.11832.pdf)
 
 by Peng Sun, Wenhu Zhang, Huanyu Wang, Songyuan Li, and Xi Li.
 
