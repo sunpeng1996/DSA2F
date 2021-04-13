@@ -27,7 +27,8 @@ by Peng Sun, Wenhu Zhang, Huanyu Wang, Songyuan Li, and Xi Li.
    
 You can use the toolbox provided by [jiwei0921](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox) for evaluation.
 
-Additionally, we also provide the saliency maps of the STERE-1000 and SIP dataset on  [BaiduYun](https://pan.baidu.com/s/1idJ_yWl3N22fafa0RgzuQw)(code:r7da) for easy comparison.
+Additionally, we also provide the saliency maps of the STERE-1000 and SIP dataset on  [BaiduYun](https://pan.baidu.com/s/1Pp1Hvckfsvr7mWq9qcY9pw)(code:qxfw) for easy comparison.
+
 
 |Dataset | E<sub>r</sub>| S<sub>λ</sub><sup>mean</sup>|F<sub>β</sub><sup>mean</sup>| M |
 |:---:|:---:|:---:|:---:|:---:|
