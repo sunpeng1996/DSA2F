@@ -23,10 +23,16 @@ by Peng Sun, Wenhu Zhang, Huanyu Wang, Songyuan Li, and Xi Li.
 
 ## Saliency maps and Evaluation
 
- All of the saliency maps are available on [GoogleDrive](https://drive.google.com/file/d/1pqRpWgyDry3o6iKNNDx_eM2_kEOftYY3/view?usp=sharing) or [BaiduYun](https://pan.baidu.com/s/1Fr5PuABceE7ordJvE84PKA)(code:juc2).
+ All of the saliency maps mentioned in the paper are available on [GoogleDrive](https://drive.google.com/file/d/1pqRpWgyDry3o6iKNNDx_eM2_kEOftYY3/view?usp=sharing) or [BaiduYun](https://pan.baidu.com/s/1Fr5PuABceE7ordJvE84PKA)(code:juc2).
    
 You can use the toolbox provided by [jiwei0921](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox) for evaluation.
 
+Additionally, we also provide the saliency maps of the STERE-1000 and SIP dataset on  [BaiduYun](https://pan.baidu.com/s/1idJ_yWl3N22fafa0RgzuQw)(code:r7da) for easy comparison.
+
+|Dataset | E<sub>r</sub>| S<sub>λ</sub><sup>mean</sup>|F<sub>β</sub><sup>mean</sup>| M |
+|:---:|:---:|:---:|:---:|:---:|
+|STERE-1000|0.928|0.897|0.895|0.038|
+|SIP|0.908|0.861|0.868|0.057|
 
 ## Citation
 ```
