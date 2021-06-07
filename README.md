@@ -1,3 +1,11 @@
+<!--
+ * @Author: Wenhu Zhang
+ * @Date: 2021-06-07 17:40:58
+ * @LastEditTime: 2021-06-07 18:24:59
+ * @LastEditors: Wenhu Zhang
+ * @Description: 
+ * @FilePath: /github/sp/DSA2F/README.md
+-->
 
 
 # DSA^2 F: Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion (CVPR'2021, Oral)
@@ -7,7 +15,20 @@ This repo is the official implementation of
 
 by Peng Sun, Wenhu Zhang, Huanyu Wang, Songyuan Li, and Xi Li.
 
-### Code will be released soon after.
+# Prerequisites
++ Ubuntu 18
++ PyTorch 1.7.0
++ CUDA 10.1
++ Cudnn 7.5.1
++ Python 3.7
++ Numpy 1.17.3
+
+
+# Training
+Please see `launch_train.sh` and `launch_pretrain.sh` for imagenet pretraining and sod training, respectively.
+
+# Testing
+Please see `launch_test.sh` for testing on the sod benchmarks.
 
 ## Main Results
 
